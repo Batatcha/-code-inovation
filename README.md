@@ -1,9 +1,12 @@
 # -code-inovation
-Creation of an interactive map for detecting potential areas with excess nutrients that could cause eutrophication
+An interactive mapping tool designed to detect potential zones with excess nutrients in marine environments. By visualizing key biogeochemical parameters, this project helps assess eutrophication risks and their potential impact on coastal ecosystems.
+#Oceanography #DataVisualization #Eutrophication #InteractiveMaps #Python #NetCDF #R
 
-
-
-
+## 📌 Data and visualizations
+- 🌊 Animation maps ## mp4 format
+- 🗺️ Interactive mapping ## html 
+##########################################################################################
+##  code R (final.R)
 # Install libraries if necessary
 
 df_nitrate <- create_dataframe(nitrate_excess, nitrate_mean)
